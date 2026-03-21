@@ -1,17 +1,20 @@
 <table align="center">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://c.tenor.com/G0dP5NM52YwAAAAC/roof-piece-luffy.gif" width="820"/>
+      <img src="https://c.tenor.com/G0dP5NM52YwAAAAC/roof-piece-luffy.gif" width="810"/>
     </td>
   </tr>
 
 <tr>
-  <td align="left">
-    <b style="font-size:40px;">Hey! I'm Charan</b><br/><br/>
-    Backend-focused CS student from Hyderabad.<br/>
-    I build systems from scratch and focus on clean, scalable code.<br/>
-    Currently working on <b>Spring Boot</b> and <b>DSA</b>.
-  </td>
+<td align="left">
+  <b style="font-size:48px;">Hey! I'm Charan</b><br/><br/>
+  Backend-focused CS student from Hyderabad.<br/>
+  I build systems from scratch and focus on clean, scalable code.<br/>
+  Currently working on <b>Spring Boot</b> and <b>DSA</b>.<br/><br/>
+
+  Also exploring frontend with <b>React</b>, building modern, functional UIs.<br/>
+  I care about performance, clean state management, and good UX.
+</td>
 
   <td align="right">
     <img src="https://media.tenor.com/gqLyHx2oKjcAAAAj/luffy.gif" width="300"/>
