@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://c.tenor.com/G0dP5NM52YwAAAAC/roof-piece-luffy.gif" width="850"/>
+      <img src="https://c.tenor.com/G0dP5NM52YwAAAAC/roof-piece-luffy.gif" width="820"/>
     </td>
   </tr>
 
