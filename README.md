@@ -1,6 +1,23 @@
-# Hey! I'm Charan
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://c.tenor.com/G0dP5NM52YwAAAAC/roof-piece-luffy.gif" width="850"/>
+    </td>
+  </tr>
 
-a CS student from Hyderabad who loves building things from scratch and understanding how they actually work under the hood.I'm into backend systems, clean architecture, and modern functional UIs — basically obsessed with making code that's both well-structured and great to use. Currently going deeper into Spring Boot and grinding DSA on LeetCode.I learn by building real projects, reading docs, and studying how others write code. Everything on my profile reflects something I actually wanted to build or understand better.Always looking to collaborate, learn, and ship cool stuff. 🚀
+<tr>
+  <td align="left">
+    <b style="font-size:40px;">Hey! I'm Charan</b><br/><br/>
+    Backend-focused CS student from Hyderabad.<br/>
+    I build systems from scratch and focus on clean, scalable code.<br/>
+    Currently working on <b>Spring Boot</b> and <b>DSA</b>.
+  </td>
+
+  <td align="right">
+    <img src="https://media.tenor.com/gqLyHx2oKjcAAAAj/luffy.gif" width="300"/>
+  </td>
+</tr>
+</table>
 
 ---
 
