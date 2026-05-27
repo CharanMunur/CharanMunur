@@ -16,6 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-charan-munur-614623352/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CharanMunur/)
+[![Website](https://img.shields.io/badge/Website-ff5e00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charanmunur.in)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charanmunur@gmail.com)
 
 </div>
@@ -80,9 +81,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=charanmunur&show_icons=true&theme=dark&&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="130"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CharanMunur&theme=dark&hide_border=true" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanMunur&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" height="130"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=CharanMunur&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="130"/>
+  <img src="https://streak-stats.demolab.com/?user=CharanMunur&theme=dark&hide_border=true" height="130"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CharanMunur&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="130"/>
 </div>
 
 
