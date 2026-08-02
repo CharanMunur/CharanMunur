@@ -7,7 +7,7 @@
 # Charan Munur
 
 <p align="center">
-  <kbd>Backend Developer</kbd> &nbsp;•&nbsp; <kbd>Spring Boot</kbd> &nbsp;•&nbsp; <kbd>React</kbd>
+  <kbd>Backend Developer</kbd> &nbsp;•&nbsp; <kbd>Spring Boot</kbd> &nbsp;•&nbsp; <kbd>React</kbd> &nbsp;•&nbsp; <kbd>Go</kbd>
 </p>
 
 *CS student from Hyderabad. I enjoy building backend systems, practicing DSA, and exploring modern frontend. Occasionally read about blockchain out of curiosity.*
@@ -52,8 +52,11 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 </td>
 </tr>
